@@ -1,3 +1,3 @@
 SOM-Example
 ===========
-This is a Example.
+This is an Example.
