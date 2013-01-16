@@ -1,6 +1,7 @@
 package com.som.core;
 
 public class SOM {
+	// This is a comment
 
 	double[][][] neurons;
 	
